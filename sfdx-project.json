@@ -1,7 +1,7 @@
 {
     "packageDirectories": [
         {
-            "path": "mdapi",
+            "path": "dreamhouse-app",
             "default": true
         }
     ],

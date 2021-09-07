@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>ContactController</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>Broker__c.Email__c</members>
+		<members>Broker__c.Mobile_Phone__c</members>
+		<members>Broker__c.Phone__c</members>
+		<members>Broker__c.Picture_IMG__c</members>
+		<members>Broker__c.Picture__c</members>
+		<members>Broker__c.Title__c</members>
+		<members>Property__c.Features__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>Broker__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Property_Record_Page</members>
+		<name>FlexiPage</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>PathAssistant</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>PermissionSet</name>
+	</types>
+	<version>51.0</version>
+</Package>
